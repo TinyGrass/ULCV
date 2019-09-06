@@ -1,5 +1,5 @@
 # Unsupervised Learning in Computer Visiion 
-  (In Collecting...)
+  (Keep Collecting)
 
 ## 1. Video Object Segmentation
 
