@@ -7,6 +7,8 @@
 
 * [Learning Unsupervised Video Object Segmentation through Visual Attention](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention_CVPR_2019_paper.pdf), CVPR 2019.
 
+* [Anchor Diffusion for Unsupervised Video Object Segmentation](https://www.robots.ox.ac.uk/~tvg/publications/2019/zhao_iccv19_final.pdf), ICCV 2019.
+
 
 
 ## 2. Video Object Tracking
